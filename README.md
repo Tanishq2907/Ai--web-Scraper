@@ -74,13 +74,14 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### 🔹 Input Interface
-![Web Scraper Input](web_scraper_input.jpg)
+![Web Scraper Input](screenshots/web_scraper_input.jpg)
 
 ### 🔹 Processing and Scraping Status
-![Web Scraper Processing](web_scraper_processing.jpg)
+![Web Scraper Processing](screenshots/web_scraper_processing.jpg)
 
 ### 🔹 Output Results Display
-![Web Scraper Output](web_scraper_output.jpg)
+![Web Scraper Output](screenshots/web_scraper_output.jpg)
+
 
 ### ✅ Example Use Cases
 
