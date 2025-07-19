@@ -71,18 +71,6 @@ ollama run deepseek
 5. Start the Streamlit app
 streamlit run app.py
 
-## 📸 Screenshots
-
-### 🔹 Input Interface
-![Web Scraper Input](screenshots/web_scraper_input.jpg)
-
-### 🔹 Processing and Scraping Status
-![Web Scraper Processing](screenshots/web_scraper_processing.jpg)
-
-### 🔹 Output Results Display
-![Web Scraper Output](screenshots/web_scraper_output.jpg)
-
-
 ### ✅ Example Use Cases
 
 - Extract product titles and prices from e-commerce websites  
@@ -96,6 +84,33 @@ streamlit run app.py
 - Track social media posts and hashtags from public platforms
 - Detect and report pirated video/movie copies by scanning public streaming sites
 - Monitor academic journal updates for research alerts
+
+## 🧩 Future Enhancements
+
+- Add cloud-based model hosting for scalability  
+- Support CAPTCHA solving for restricted websites  
+- Introduce scheduling for periodic scraping  
+- Multilingual scraping using fine-tuned LLMs  
+- Export to more formats (Excel, API integration)  
+
+---
+
+## 🤝 Contributors
+
+- **Tanishq Giri** – Developer, Designer, Researcher  
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact
+
+For queries or collaboration: **tanishqgiri248@gmail.com**
+
 
 
    
