@@ -1,27 +1,27 @@
-# 🧠 AI-Powered Web Scraper
+# AI-Powered Web Scraper
 
 An intelligent, user-friendly web scraping tool that combines automation with natural language processing (NLP) to extract structured data from websites — without writing a single line of scraping logic.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project simplifies web data extraction by allowing users to input a website URL and a natural language query (e.g., "Extract all book titles"). It scrapes both static and dynamic content, filters out irrelevant sections (like ads or navigation bars), and returns clean, structured results in JSON/CSV format.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- ✅ **No-Code Scraping**: Extract data using simple natural language queries  
-- ⚙️ **Dual Scraping Engine**: Uses ScrapingBee API with fallback to Selenium  
-- 🧠 **AI Integration**: DeepSeek R1 LLM (via Ollama) interprets and extracts relevant content  
-- 🧹 **Noise Filtering**: Removes unwanted content like ads, footers, and scripts  
-- 📦 **Data Export**: Results available in JSON or CSV  
-- 🧑‍💻 **User Interface**: Built with Streamlit for seamless user interaction  
+- **No-Code Scraping**: Extract data using simple natural language queries  
+- **Dual Scraping Engine**: Uses ScrapingBee API with fallback to Selenium  
+- **AI Integration**: DeepSeek R1 LLM (via Ollama) interprets and extracts relevant content  
+- **Noise Filtering**: Removes unwanted content like ads, footers, and scripts  
+- **Data Export**: Results available in JSON or CSV  
+- **User Interface**: Built with Streamlit for seamless user interaction  
 
 ---
 
-## ⭐ Tech Stack
+## Tech Stack
 
 | Component      | Technology                        |
 |----------------|-----------------------------------|
@@ -34,7 +34,7 @@ This project simplifies web data extraction by allowing users to input a website
 
 ---
 
-## 🖥️ System Requirements
+## System Requirements
 
 ### Software
 - Python 3.9+
@@ -50,7 +50,7 @@ This project simplifies web data extraction by allowing users to input a website
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -71,7 +71,7 @@ ollama run deepseek
 5. Start the Streamlit app
 streamlit run app.py
 
-### ✅ Example Use Cases
+### Example Use Cases
 
 - Extract product titles and prices from e-commerce websites  
 - Get the latest headlines from multiple news portals  
@@ -85,7 +85,7 @@ streamlit run app.py
 - Detect and report pirated video/movie copies by scanning public streaming sites
 - Monitor academic journal updates for research alerts
 
-## 🧩 Future Enhancements
+## Future Enhancements
 
 - Add cloud-based model hosting for scalability  
 - Support CAPTCHA solving for restricted websites  
@@ -95,19 +95,19 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contributors
+## Contributors
 
 - **Tanishq Giri** – Developer, Designer, Researcher  
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
+## Contact
 
 For queries or collaboration: **tanishqgiri248@gmail.com**
 
