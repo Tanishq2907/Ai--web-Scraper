@@ -21,7 +21,7 @@ This project simplifies web data extraction by allowing users to input a website
 
 ---
 
-## 🧱 Tech Stack
+## ⭐ Tech Stack
 
 | Component      | Technology                        |
 |----------------|-----------------------------------|
@@ -56,20 +56,45 @@ This project simplifies web data extraction by allowing users to input a website
    ```bash
    git clone https://github.com/your-username/ai-web-scraper.git
    cd ai-web-scraper
-# 2. Create a virtual environment
+2. Create a virtual environment
 python -m venv venv
 source venv/bin/activate      # For macOS/Linux
-# OR
+ OR
 venv\Scripts\activate         # For Windows
 
-# 3. Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Run Ollama with DeepSeek R1
+4. Run Ollama with DeepSeek R1
 ollama run deepseek
 
-# 5. Start the Streamlit app
+5. Start the Streamlit app
 streamlit run app.py
+
+## 📸 Screenshots
+
+### 🔹 Input Interface
+![Web Scraper Input](web_scraper_input.jpg)
+
+### 🔹 Processing and Scraping Status
+![Web Scraper Processing](web_scraper_processing.jpg)
+
+### 🔹 Output Results Display
+![Web Scraper Output](web_scraper_output.jpg)
+
+### ✅ Example Use Cases
+
+- Extract product titles and prices from e-commerce websites  
+- Get the latest headlines from multiple news portals  
+- Scrape publication titles and metadata from research repositories
+- Monitor job listings and hiring trends from job boards
+- Collect real estate property details from listing platforms
+- Extract conference schedules and speaker details from event sites
+- Scrape user reviews and perform sentiment analysis from product pages
+- Aggregate press releases or announcements from competitor websites
+- Track social media posts and hashtags from public platforms
+- Detect and report pirated video/movie copies by scanning public streaming sites
+- Monitor academic journal updates for research alerts
 
 
    
